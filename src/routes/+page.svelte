@@ -1,4 +1,9 @@
+<script>
+	import TaskOverview from '$lib/components/TaskOverview.svelte';
+	import TaskCreation from '../lib/components/TaskCreation.svelte';
+</script>
+
 <div class="text-center">
-	<h1>Welcome to SvelteKit</h1>
-	<p>Let us start building nightwise!</p>
+	<TaskOverview />
+	<TaskCreation />
 </div>
