@@ -37,6 +37,11 @@
 	"type": "module",
 	"dependencies": {
 		"@internationalized/date": "^3.5.2",
+		"@tiptap/core": "^2.3.0",
+		"@tiptap/extension-highlight": "^2.3.0",
+		"@tiptap/extension-typography": "^2.3.0",
+		"@tiptap/pm": "^2.3.0",
+		"@tiptap/starter-kit": "^2.3.0",
 		"bits-ui": "^0.21.4",
 		"clsx": "^2.1.0",
 		"lucide-svelte": "^0.371.0",
